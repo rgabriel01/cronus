@@ -1,0 +1,19 @@
+{
+  "name": "cronus",
+  "version": "1.0.0",
+  "description": "Takes note of filed work from homes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgabriel01/cronus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgabriel01/cronus/issues"
+  },
+  "homepage": "https://github.com/rgabriel01/cronus#readme"
+}
